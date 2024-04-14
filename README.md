@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# About me
+
+Hi! I'm Zeynep and I was born in 2001.
+
 <!--
 **zeynep-2/zeynep-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
