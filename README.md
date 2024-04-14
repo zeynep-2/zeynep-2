@@ -1,7 +1,3 @@
-### Hi there 👋
-
-# About me
-
 Hi! I'm Zeynep and I was born in 2001.
 
 <!--
